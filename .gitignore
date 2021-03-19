@@ -1,0 +1,5 @@
+# Ignore everything
+*
+
+# But not these files...
+!*/home/steam/valheimserver/BepInEx/config/valheim_plus.cfg
