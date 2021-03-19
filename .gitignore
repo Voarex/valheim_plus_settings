@@ -3,3 +3,4 @@
 
 # But not these files...
 !valheim_plus.cfg
+!BepInEx.cfg
