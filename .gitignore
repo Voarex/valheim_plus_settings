@@ -2,4 +2,4 @@
 *
 
 # But not these files...
-!*/home/steam/valheimserver/BepInEx/config/valheim_plus.cfg
+!valheim_plus.cfg
